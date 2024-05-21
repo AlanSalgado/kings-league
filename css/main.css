@@ -1,0 +1,47 @@
+:root {
+    --azul-marino: #12486B;
+    --verde-agua: #419197;
+    --verde-menta: #78D6C6;
+    --amarillo: #F5FCCD;
+    --gris:#E6E6E6;
+    --naranja: #F88020;
+}
+
+nav {
+    background-color: var(--azul-marino);
+}
+
+.navbar-nav > .nav-item > .nav-link, .nav-link.active  {
+    color: white;
+    transition: color 0.3s;
+}
+
+.navbar-nav > .nav-item > .nav-link:hover, .nav-link.active:hover  {
+    color: var(--naranja);
+}
+
+
+footer {
+    background-color: var(--azul-marino);
+}
+
+footer > div > span, a > i {
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    transition: color 0.3s;
+}
+
+footer > div > a > i:hover {
+    text-decoration: none;
+    color: var(--naranja);
+    font-style: normal;
+}
+
+footer > div > a {
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    transition: color 0.3s;
+}
+
