@@ -26,7 +26,7 @@
     <div class="container">
         <p class="fs-1 text-center font-arial">¡Bienvenido, <strong class="fw-bold"><?php if($_SESSION["tipoUsuario"]==1){echo "Administrador";}else{echo "Auxiliar";} ?></strong>!</p>
         <div class="pt-2 text-center">
-            <img src="./src/registro-main.png" class="img-fluid" alt="...">
+            <img src="./src/kl_logo.png" class="img-fluid" alt="...">
         </div>
         <div class="pt-2">
             <p class="fs-6 font-arial"><strong class="fw-bold">Coding Cup ITSUR </strong>es un concurso de programación competitiva que ayuda a los estudiantes a desarrollar habilidades y conocimientos aplicables en la industria a través de problemas lógico-matemáticos.</p>
