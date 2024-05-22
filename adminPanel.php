@@ -29,7 +29,7 @@
             <img src="./src/registro-main.png" class="img-fluid" alt="...">
         </div>
         <div class="pt-2">
-            <p class="fs-6 font-arial"><strong class="fw-bold">Coding Cup ITSUR </strong>es un concurso de programación competitiva que ayuda a los estudiantes a desarrollar habilidades y conocimientos aplicables en la industria a través de problemas lógico-matemáticos.</p>
+            <p class="fs-6 font-arial"><strong class="fw-bold">La Kings League </strong> denominada oficialmente por motivos de patrocinio como Kings League InfoJobs y Kings League Santander, es una liga de fútbol 7 con sede principal en Barcelona, España, creada por el exfutbolista Gerard Piqué en 2022 en asociación con otras personalidades de internet y streamers.</p>
             <p class="fs-6 font-arial">Consulta el reglamento para poder participar.</p>
         </div>
     </div>
