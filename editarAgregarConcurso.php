@@ -26,11 +26,11 @@
     ?>
 
     <div class="container-fluid w-50 justify-content-center mt-5">
-        <h1 id="titulo" class="py-x|3"><?php if($concurso->idConcurso){echo "Editar";}else{echo "Agregar";} ?> Concurso</h1>
+        <h1 id="titulo" class="py-x|3"><?php if($concurso->idConcurso){echo "Editar";}else{echo "Agregar";} ?> Torneo</h1>
         <form method="post">
             <input type="hidden" name="id" value="<?= $concurso->idConcurso ?>">
             <div class="form-group">
-                <label>Nombre del Concurso</label>
+                <label>Nombre del Torneo</label>
                 <input type="text" name="nombreConcurso" id="txtNombreConcurso" class="form-control <?=$valNombreConcurso?>" value="<?= $concurso->nombreConcurso ?>" minlength="3">
                 <div class="invalid-feedback">
                     <ul>

@@ -23,7 +23,7 @@
                         <a class="nav-link px-4" href="./equipos.php">Menu Equipos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link px-4" href="./concursos.php">Concursos</a>
+                        <a class="nav-link px-4" href="./concursos.php">Torneos</a>
                     </li>    
                     <!--Este es para cerrar sesion no quitar-->
                     <li class="nav-item">
@@ -35,7 +35,7 @@
                         <a class="nav-link px-4" href="./equipos.php">Menu Equipos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link px-4" href="./concursos.php">Concursos</a>
+                        <a class="nav-link px-4" href="./concursos.php">Torneos</a>
                     </li>
                     <!--Este es para cerrar sesion no quitar-->
                     <li class="nav-item">
