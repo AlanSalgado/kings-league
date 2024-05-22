@@ -73,7 +73,7 @@
       <div class="mx-auto p-1" style="width: 90%;">
         <div style="display: flex;">
           <div class="mx-auto py-4 px-4 w-100">
-            <img src="src/logo-ccup.png" alt="img" style="width: 450px;">
+            <img src="src/kl_logo.png" alt="img" style="width: 450px;">
           </div>
           <div class="mx-auto py-4 px-4 w-100 text-center">
             <h2>Datos importantes de la convocatoria</h3>
@@ -99,7 +99,7 @@
                   luctus id, vulputate nec mauris.</p>
             </div>
             <div class="mx-auto py-4 px-4 w-100 text-center">
-              <img src="src/logo-ccup.png" alt="img" style="width: 450px;">
+              <img src="src/kl_logo.png" alt="img" style="width: 450px;">
             </div>
           </div>
         </div>

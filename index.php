@@ -17,7 +17,7 @@
     <div class="py-3">
         
         <div class="mx-auto py-4" style="width: 200px;">
-            <img src="src/logo-ccup.png" alt="logo" width="200px">
+            <img src="src/kl_logo.png" alt="logo" width="200px">
         </div>
         <form action="procesarInicio.php" method="post"  class="mx-auto py-4" style="width: 400px;">
             <div>

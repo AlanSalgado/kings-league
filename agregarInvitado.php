@@ -17,7 +17,7 @@
 <nav id="menu" class="navbar navbar-expand-md p-3 sticky-top">
         <div class="container-fluid">
             <!-- <a class="navbar-brand px-2" href="./index.php"> -->
-            <img src="./src/logo-ccup.png" href="./index.php" alt="Logo CCUP" title="Volver a la página de inicio" width="50">
+            <img src="./src/kl_logo.png" href="./index.php" alt="Logo CCUP" title="Volver a la página de inicio" width="50">
             <!-- </a> -->
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
